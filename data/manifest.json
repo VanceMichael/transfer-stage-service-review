@@ -1,0 +1,95 @@
+{
+  "projects": {
+    "fields": [
+      "id",
+      "industry",
+      "base_station",
+      "started",
+      "goal",
+      "service_cohort",
+      "process"
+    ],
+    "key": [
+      "id"
+    ]
+  },
+  "packages": {
+    "fields": [
+      "project",
+      "package",
+      "required"
+    ],
+    "key": [
+      "project",
+      "package"
+    ]
+  },
+  "events": {
+    "fields": [
+      "id",
+      "project",
+      "station",
+      "goal",
+      "event",
+      "package",
+      "occurred",
+      "available",
+      "previous"
+    ],
+    "key": [
+      "id"
+    ]
+  },
+  "services": {
+    "fields": [
+      "project",
+      "stage",
+      "station",
+      "used",
+      "contract"
+    ],
+    "key": [
+      "project",
+      "stage"
+    ]
+  },
+  "review_policy": {
+    "fields": [
+      "id",
+      "dates",
+      "horizons",
+      "min_per_group",
+      "min_effect"
+    ],
+    "key": [
+      "id"
+    ]
+  },
+  "windows": {
+    "fields": [
+      "id",
+      "station",
+      "available_start",
+      "available_end",
+      "hours",
+      "skill"
+    ],
+    "key": [
+      "id"
+    ]
+  },
+  "renewal": {
+    "fields": [
+      "id",
+      "contract",
+      "stage",
+      "area",
+      "decided",
+      "count",
+      "evidence_as_of"
+    ],
+    "key": [
+      "id"
+    ]
+  }
+}

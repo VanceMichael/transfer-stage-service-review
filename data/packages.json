@@ -1,0 +1,962 @@
+[
+  {
+    "project": "p000",
+    "package": "main",
+    "required": true
+  },
+  {
+    "project": "p000",
+    "package": "backup",
+    "required": true
+  },
+  {
+    "project": "p001",
+    "package": "main",
+    "required": true
+  },
+  {
+    "project": "p001",
+    "package": "backup",
+    "required": false
+  },
+  {
+    "project": "p002",
+    "package": "main",
+    "required": true
+  },
+  {
+    "project": "p002",
+    "package": "backup",
+    "required": false
+  },
+  {
+    "project": "p003",
+    "package": "main",
+    "required": true
+  },
+  {
+    "project": "p003",
+    "package": "backup",
+    "required": false
+  },
+  {
+    "project": "p004",
+    "package": "main",
+    "required": true
+  },
+  {
+    "project": "p004",
+    "package": "backup",
+    "required": false
+  },
+  {
+    "project": "p005",
+    "package": "main",
+    "required": true
+  },
+  {
+    "project": "p005",
+    "package": "backup",
+    "required": false
+  },
+  {
+    "project": "p006",
+    "package": "main",
+    "required": true
+  },
+  {
+    "project": "p006",
+    "package": "backup",
+    "required": false
+  },
+  {
+    "project": "p007",
+    "package": "main",
+    "required": true
+  },
+  {
+    "project": "p007",
+    "package": "backup",
+    "required": true
+  },
+  {
+    "project": "p008",
+    "package": "main",
+    "required": true
+  },
+  {
+    "project": "p008",
+    "package": "backup",
+    "required": false
+  },
+  {
+    "project": "p009",
+    "package": "main",
+    "required": true
+  },
+  {
+    "project": "p009",
+    "package": "backup",
+    "required": false
+  },
+  {
+    "project": "p010",
+    "package": "main",
+    "required": true
+  },
+  {
+    "project": "p010",
+    "package": "backup",
+    "required": false
+  },
+  {
+    "project": "p011",
+    "package": "main",
+    "required": true
+  },
+  {
+    "project": "p011",
+    "package": "backup",
+    "required": false
+  },
+  {
+    "project": "p012",
+    "package": "main",
+    "required": true
+  },
+  {
+    "project": "p012",
+    "package": "backup",
+    "required": false
+  },
+  {
+    "project": "p013",
+    "package": "main",
+    "required": true
+  },
+  {
+    "project": "p013",
+    "package": "backup",
+    "required": false
+  },
+  {
+    "project": "p014",
+    "package": "main",
+    "required": true
+  },
+  {
+    "project": "p014",
+    "package": "backup",
+    "required": true
+  },
+  {
+    "project": "p015",
+    "package": "main",
+    "required": true
+  },
+  {
+    "project": "p015",
+    "package": "backup",
+    "required": false
+  },
+  {
+    "project": "p016",
+    "package": "main",
+    "required": true
+  },
+  {
+    "project": "p016",
+    "package": "backup",
+    "required": false
+  },
+  {
+    "project": "p017",
+    "package": "main",
+    "required": true
+  },
+  {
+    "project": "p017",
+    "package": "backup",
+    "required": false
+  },
+  {
+    "project": "p018",
+    "package": "main",
+    "required": true
+  },
+  {
+    "project": "p018",
+    "package": "backup",
+    "required": false
+  },
+  {
+    "project": "p019",
+    "package": "main",
+    "required": true
+  },
+  {
+    "project": "p019",
+    "package": "backup",
+    "required": false
+  },
+  {
+    "project": "p020",
+    "package": "main",
+    "required": true
+  },
+  {
+    "project": "p020",
+    "package": "backup",
+    "required": false
+  },
+  {
+    "project": "p021",
+    "package": "main",
+    "required": true
+  },
+  {
+    "project": "p021",
+    "package": "backup",
+    "required": true
+  },
+  {
+    "project": "p022",
+    "package": "main",
+    "required": true
+  },
+  {
+    "project": "p022",
+    "package": "backup",
+    "required": false
+  },
+  {
+    "project": "p023",
+    "package": "main",
+    "required": true
+  },
+  {
+    "project": "p023",
+    "package": "backup",
+    "required": false
+  },
+  {
+    "project": "p024",
+    "package": "main",
+    "required": true
+  },
+  {
+    "project": "p024",
+    "package": "backup",
+    "required": false
+  },
+  {
+    "project": "p025",
+    "package": "main",
+    "required": true
+  },
+  {
+    "project": "p025",
+    "package": "backup",
+    "required": false
+  },
+  {
+    "project": "p026",
+    "package": "main",
+    "required": true
+  },
+  {
+    "project": "p026",
+    "package": "backup",
+    "required": false
+  },
+  {
+    "project": "p027",
+    "package": "main",
+    "required": true
+  },
+  {
+    "project": "p027",
+    "package": "backup",
+    "required": false
+  },
+  {
+    "project": "p028",
+    "package": "main",
+    "required": true
+  },
+  {
+    "project": "p028",
+    "package": "backup",
+    "required": true
+  },
+  {
+    "project": "p029",
+    "package": "main",
+    "required": true
+  },
+  {
+    "project": "p029",
+    "package": "backup",
+    "required": false
+  },
+  {
+    "project": "p030",
+    "package": "main",
+    "required": true
+  },
+  {
+    "project": "p030",
+    "package": "backup",
+    "required": false
+  },
+  {
+    "project": "p031",
+    "package": "main",
+    "required": true
+  },
+  {
+    "project": "p031",
+    "package": "backup",
+    "required": false
+  },
+  {
+    "project": "p032",
+    "package": "main",
+    "required": true
+  },
+  {
+    "project": "p032",
+    "package": "backup",
+    "required": false
+  },
+  {
+    "project": "p033",
+    "package": "main",
+    "required": true
+  },
+  {
+    "project": "p033",
+    "package": "backup",
+    "required": false
+  },
+  {
+    "project": "p034",
+    "package": "main",
+    "required": true
+  },
+  {
+    "project": "p034",
+    "package": "backup",
+    "required": false
+  },
+  {
+    "project": "p035",
+    "package": "main",
+    "required": true
+  },
+  {
+    "project": "p035",
+    "package": "backup",
+    "required": true
+  },
+  {
+    "project": "p036",
+    "package": "main",
+    "required": true
+  },
+  {
+    "project": "p036",
+    "package": "backup",
+    "required": false
+  },
+  {
+    "project": "p037",
+    "package": "main",
+    "required": true
+  },
+  {
+    "project": "p037",
+    "package": "backup",
+    "required": false
+  },
+  {
+    "project": "p038",
+    "package": "main",
+    "required": true
+  },
+  {
+    "project": "p038",
+    "package": "backup",
+    "required": false
+  },
+  {
+    "project": "p039",
+    "package": "main",
+    "required": true
+  },
+  {
+    "project": "p039",
+    "package": "backup",
+    "required": false
+  },
+  {
+    "project": "p040",
+    "package": "main",
+    "required": true
+  },
+  {
+    "project": "p040",
+    "package": "backup",
+    "required": false
+  },
+  {
+    "project": "p041",
+    "package": "main",
+    "required": true
+  },
+  {
+    "project": "p041",
+    "package": "backup",
+    "required": false
+  },
+  {
+    "project": "p042",
+    "package": "main",
+    "required": true
+  },
+  {
+    "project": "p042",
+    "package": "backup",
+    "required": true
+  },
+  {
+    "project": "p043",
+    "package": "main",
+    "required": true
+  },
+  {
+    "project": "p043",
+    "package": "backup",
+    "required": false
+  },
+  {
+    "project": "p044",
+    "package": "main",
+    "required": true
+  },
+  {
+    "project": "p044",
+    "package": "backup",
+    "required": false
+  },
+  {
+    "project": "p045",
+    "package": "main",
+    "required": true
+  },
+  {
+    "project": "p045",
+    "package": "backup",
+    "required": false
+  },
+  {
+    "project": "p046",
+    "package": "main",
+    "required": true
+  },
+  {
+    "project": "p046",
+    "package": "backup",
+    "required": false
+  },
+  {
+    "project": "p047",
+    "package": "main",
+    "required": true
+  },
+  {
+    "project": "p047",
+    "package": "backup",
+    "required": false
+  },
+  {
+    "project": "p048",
+    "package": "main",
+    "required": true
+  },
+  {
+    "project": "p048",
+    "package": "backup",
+    "required": false
+  },
+  {
+    "project": "p049",
+    "package": "main",
+    "required": true
+  },
+  {
+    "project": "p049",
+    "package": "backup",
+    "required": true
+  },
+  {
+    "project": "p050",
+    "package": "main",
+    "required": true
+  },
+  {
+    "project": "p050",
+    "package": "backup",
+    "required": false
+  },
+  {
+    "project": "p051",
+    "package": "main",
+    "required": true
+  },
+  {
+    "project": "p051",
+    "package": "backup",
+    "required": false
+  },
+  {
+    "project": "p052",
+    "package": "main",
+    "required": true
+  },
+  {
+    "project": "p052",
+    "package": "backup",
+    "required": false
+  },
+  {
+    "project": "p053",
+    "package": "main",
+    "required": true
+  },
+  {
+    "project": "p053",
+    "package": "backup",
+    "required": false
+  },
+  {
+    "project": "p054",
+    "package": "main",
+    "required": true
+  },
+  {
+    "project": "p054",
+    "package": "backup",
+    "required": false
+  },
+  {
+    "project": "p055",
+    "package": "main",
+    "required": true
+  },
+  {
+    "project": "p055",
+    "package": "backup",
+    "required": false
+  },
+  {
+    "project": "p056",
+    "package": "main",
+    "required": true
+  },
+  {
+    "project": "p056",
+    "package": "backup",
+    "required": true
+  },
+  {
+    "project": "p057",
+    "package": "main",
+    "required": true
+  },
+  {
+    "project": "p057",
+    "package": "backup",
+    "required": false
+  },
+  {
+    "project": "p058",
+    "package": "main",
+    "required": true
+  },
+  {
+    "project": "p058",
+    "package": "backup",
+    "required": false
+  },
+  {
+    "project": "p059",
+    "package": "main",
+    "required": true
+  },
+  {
+    "project": "p059",
+    "package": "backup",
+    "required": false
+  },
+  {
+    "project": "p060",
+    "package": "main",
+    "required": true
+  },
+  {
+    "project": "p060",
+    "package": "backup",
+    "required": false
+  },
+  {
+    "project": "p061",
+    "package": "main",
+    "required": true
+  },
+  {
+    "project": "p061",
+    "package": "backup",
+    "required": false
+  },
+  {
+    "project": "p062",
+    "package": "main",
+    "required": true
+  },
+  {
+    "project": "p062",
+    "package": "backup",
+    "required": false
+  },
+  {
+    "project": "p063",
+    "package": "main",
+    "required": true
+  },
+  {
+    "project": "p063",
+    "package": "backup",
+    "required": true
+  },
+  {
+    "project": "p064",
+    "package": "main",
+    "required": true
+  },
+  {
+    "project": "p064",
+    "package": "backup",
+    "required": false
+  },
+  {
+    "project": "p065",
+    "package": "main",
+    "required": true
+  },
+  {
+    "project": "p065",
+    "package": "backup",
+    "required": false
+  },
+  {
+    "project": "p066",
+    "package": "main",
+    "required": true
+  },
+  {
+    "project": "p066",
+    "package": "backup",
+    "required": false
+  },
+  {
+    "project": "p067",
+    "package": "main",
+    "required": true
+  },
+  {
+    "project": "p067",
+    "package": "backup",
+    "required": false
+  },
+  {
+    "project": "p068",
+    "package": "main",
+    "required": true
+  },
+  {
+    "project": "p068",
+    "package": "backup",
+    "required": false
+  },
+  {
+    "project": "p069",
+    "package": "main",
+    "required": true
+  },
+  {
+    "project": "p069",
+    "package": "backup",
+    "required": false
+  },
+  {
+    "project": "p070",
+    "package": "main",
+    "required": true
+  },
+  {
+    "project": "p070",
+    "package": "backup",
+    "required": true
+  },
+  {
+    "project": "p071",
+    "package": "main",
+    "required": true
+  },
+  {
+    "project": "p071",
+    "package": "backup",
+    "required": false
+  },
+  {
+    "project": "p072",
+    "package": "main",
+    "required": true
+  },
+  {
+    "project": "p072",
+    "package": "backup",
+    "required": false
+  },
+  {
+    "project": "p073",
+    "package": "main",
+    "required": true
+  },
+  {
+    "project": "p073",
+    "package": "backup",
+    "required": false
+  },
+  {
+    "project": "p074",
+    "package": "main",
+    "required": true
+  },
+  {
+    "project": "p074",
+    "package": "backup",
+    "required": false
+  },
+  {
+    "project": "p075",
+    "package": "main",
+    "required": true
+  },
+  {
+    "project": "p075",
+    "package": "backup",
+    "required": false
+  },
+  {
+    "project": "p076",
+    "package": "main",
+    "required": true
+  },
+  {
+    "project": "p076",
+    "package": "backup",
+    "required": false
+  },
+  {
+    "project": "p077",
+    "package": "main",
+    "required": true
+  },
+  {
+    "project": "p077",
+    "package": "backup",
+    "required": true
+  },
+  {
+    "project": "p078",
+    "package": "main",
+    "required": true
+  },
+  {
+    "project": "p078",
+    "package": "backup",
+    "required": false
+  },
+  {
+    "project": "p079",
+    "package": "main",
+    "required": true
+  },
+  {
+    "project": "p079",
+    "package": "backup",
+    "required": false
+  },
+  {
+    "project": "p080",
+    "package": "main",
+    "required": true
+  },
+  {
+    "project": "p080",
+    "package": "backup",
+    "required": false
+  },
+  {
+    "project": "p081",
+    "package": "main",
+    "required": true
+  },
+  {
+    "project": "p081",
+    "package": "backup",
+    "required": false
+  },
+  {
+    "project": "p082",
+    "package": "main",
+    "required": true
+  },
+  {
+    "project": "p082",
+    "package": "backup",
+    "required": false
+  },
+  {
+    "project": "p083",
+    "package": "main",
+    "required": true
+  },
+  {
+    "project": "p083",
+    "package": "backup",
+    "required": false
+  },
+  {
+    "project": "p084",
+    "package": "main",
+    "required": true
+  },
+  {
+    "project": "p084",
+    "package": "backup",
+    "required": true
+  },
+  {
+    "project": "p085",
+    "package": "main",
+    "required": true
+  },
+  {
+    "project": "p085",
+    "package": "backup",
+    "required": false
+  },
+  {
+    "project": "p086",
+    "package": "main",
+    "required": true
+  },
+  {
+    "project": "p086",
+    "package": "backup",
+    "required": false
+  },
+  {
+    "project": "p087",
+    "package": "main",
+    "required": true
+  },
+  {
+    "project": "p087",
+    "package": "backup",
+    "required": false
+  },
+  {
+    "project": "p088",
+    "package": "main",
+    "required": true
+  },
+  {
+    "project": "p088",
+    "package": "backup",
+    "required": false
+  },
+  {
+    "project": "p089",
+    "package": "main",
+    "required": true
+  },
+  {
+    "project": "p089",
+    "package": "backup",
+    "required": false
+  },
+  {
+    "project": "p090",
+    "package": "main",
+    "required": true
+  },
+  {
+    "project": "p090",
+    "package": "backup",
+    "required": false
+  },
+  {
+    "project": "p091",
+    "package": "main",
+    "required": true
+  },
+  {
+    "project": "p091",
+    "package": "backup",
+    "required": true
+  },
+  {
+    "project": "p092",
+    "package": "main",
+    "required": true
+  },
+  {
+    "project": "p092",
+    "package": "backup",
+    "required": false
+  },
+  {
+    "project": "p093",
+    "package": "main",
+    "required": true
+  },
+  {
+    "project": "p093",
+    "package": "backup",
+    "required": false
+  },
+  {
+    "project": "p094",
+    "package": "main",
+    "required": true
+  },
+  {
+    "project": "p094",
+    "package": "backup",
+    "required": false
+  },
+  {
+    "project": "p095",
+    "package": "main",
+    "required": true
+  },
+  {
+    "project": "p095",
+    "package": "backup",
+    "required": false
+  }
+]

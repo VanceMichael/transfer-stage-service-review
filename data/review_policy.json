@@ -1,0 +1,16 @@
+[
+  {
+    "id": "selection",
+    "dates": [
+      "2026-05-01",
+      "2026-07-15"
+    ],
+    "horizons": [
+      60,
+      120,
+      240
+    ],
+    "min_per_group": 5,
+    "min_effect": 0.08
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "id": "c1",
+    "contract": "screen-only",
+    "stage": "screen",
+    "area": "north",
+    "decided": "2026-05-08",
+    "count": 9,
+    "evidence_as_of": "2026-05-01"
+  },
+  {
+    "id": "c2",
+    "contract": "full-era",
+    "stage": "trial",
+    "area": "south",
+    "decided": "2026-05-08",
+    "count": 10,
+    "evidence_as_of": "2026-05-01"
+  }
+]

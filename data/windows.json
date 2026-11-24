@@ -1,0 +1,26 @@
+[
+  {
+    "id": "wa",
+    "station": "north",
+    "available_start": "2026-07-20",
+    "available_end": "2026-07-26",
+    "hours": 7,
+    "skill": "screen"
+  },
+  {
+    "id": "wb",
+    "station": "west",
+    "available_start": "2026-07-20",
+    "available_end": "2026-07-26",
+    "hours": 5,
+    "skill": "trial"
+  },
+  {
+    "id": "wc",
+    "station": "south",
+    "available_start": "2026-07-20",
+    "available_end": "2026-07-26",
+    "hours": 4,
+    "skill": "trial"
+  }
+]

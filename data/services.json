@@ -1,0 +1,1010 @@
+[
+  {
+    "project": "p000",
+    "stage": "screen",
+    "station": "north",
+    "used": "2025-01-05",
+    "contract": "screen-only"
+  },
+  {
+    "project": "p001",
+    "stage": "screen",
+    "station": "north",
+    "used": "2025-01-10",
+    "contract": "full-era"
+  },
+  {
+    "project": "p001",
+    "stage": "trial",
+    "station": "west",
+    "used": "2025-02-12",
+    "contract": "full-era"
+  },
+  {
+    "project": "p002",
+    "stage": "screen",
+    "station": "south",
+    "used": "2025-01-15",
+    "contract": "screen-only"
+  },
+  {
+    "project": "p003",
+    "stage": "screen",
+    "station": "south",
+    "used": "2025-01-20",
+    "contract": "full-era"
+  },
+  {
+    "project": "p003",
+    "stage": "trial",
+    "station": "south",
+    "used": "2025-02-22",
+    "contract": "full-era"
+  },
+  {
+    "project": "p004",
+    "stage": "screen",
+    "station": "south",
+    "used": "2025-01-25",
+    "contract": "screen-only"
+  },
+  {
+    "project": "p005",
+    "stage": "screen",
+    "station": "north",
+    "used": "2025-01-30",
+    "contract": "full-era"
+  },
+  {
+    "project": "p005",
+    "stage": "trial",
+    "station": "north",
+    "used": "2025-03-04",
+    "contract": "full-era"
+  },
+  {
+    "project": "p006",
+    "stage": "screen",
+    "station": "north",
+    "used": "2025-02-04",
+    "contract": "screen-only"
+  },
+  {
+    "project": "p007",
+    "stage": "screen",
+    "station": "south",
+    "used": "2025-02-09",
+    "contract": "full-era"
+  },
+  {
+    "project": "p007",
+    "stage": "trial",
+    "station": "south",
+    "used": "2025-03-14",
+    "contract": "full-era"
+  },
+  {
+    "project": "p008",
+    "stage": "screen",
+    "station": "south",
+    "used": "2025-02-14",
+    "contract": "screen-only"
+  },
+  {
+    "project": "p009",
+    "stage": "screen",
+    "station": "south",
+    "used": "2025-02-19",
+    "contract": "full-era"
+  },
+  {
+    "project": "p009",
+    "stage": "trial",
+    "station": "south",
+    "used": "2025-03-24",
+    "contract": "full-era"
+  },
+  {
+    "project": "p010",
+    "stage": "screen",
+    "station": "north",
+    "used": "2025-02-24",
+    "contract": "screen-only"
+  },
+  {
+    "project": "p011",
+    "stage": "screen",
+    "station": "north",
+    "used": "2025-03-01",
+    "contract": "full-era"
+  },
+  {
+    "project": "p011",
+    "stage": "trial",
+    "station": "west",
+    "used": "2025-04-03",
+    "contract": "full-era"
+  },
+  {
+    "project": "p012",
+    "stage": "screen",
+    "station": "south",
+    "used": "2025-03-06",
+    "contract": "screen-only"
+  },
+  {
+    "project": "p013",
+    "stage": "screen",
+    "station": "south",
+    "used": "2025-03-11",
+    "contract": "full-era"
+  },
+  {
+    "project": "p013",
+    "stage": "trial",
+    "station": "south",
+    "used": "2025-04-13",
+    "contract": "full-era"
+  },
+  {
+    "project": "p014",
+    "stage": "screen",
+    "station": "south",
+    "used": "2025-03-16",
+    "contract": "screen-only"
+  },
+  {
+    "project": "p015",
+    "stage": "screen",
+    "station": "north",
+    "used": "2025-03-21",
+    "contract": "full-era"
+  },
+  {
+    "project": "p015",
+    "stage": "trial",
+    "station": "north",
+    "used": "2025-04-23",
+    "contract": "full-era"
+  },
+  {
+    "project": "p016",
+    "stage": "screen",
+    "station": "north",
+    "used": "2025-03-26",
+    "contract": "screen-only"
+  },
+  {
+    "project": "p017",
+    "stage": "screen",
+    "station": "south",
+    "used": "2025-03-31",
+    "contract": "full-era"
+  },
+  {
+    "project": "p017",
+    "stage": "trial",
+    "station": "south",
+    "used": "2025-05-03",
+    "contract": "full-era"
+  },
+  {
+    "project": "p018",
+    "stage": "screen",
+    "station": "south",
+    "used": "2025-04-05",
+    "contract": "screen-only"
+  },
+  {
+    "project": "p019",
+    "stage": "screen",
+    "station": "south",
+    "used": "2025-04-10",
+    "contract": "full-era"
+  },
+  {
+    "project": "p019",
+    "stage": "trial",
+    "station": "south",
+    "used": "2025-05-13",
+    "contract": "full-era"
+  },
+  {
+    "project": "p020",
+    "stage": "screen",
+    "station": "north",
+    "used": "2025-04-15",
+    "contract": "screen-only"
+  },
+  {
+    "project": "p021",
+    "stage": "screen",
+    "station": "north",
+    "used": "2025-04-20",
+    "contract": "full-era"
+  },
+  {
+    "project": "p021",
+    "stage": "trial",
+    "station": "west",
+    "used": "2025-05-23",
+    "contract": "full-era"
+  },
+  {
+    "project": "p022",
+    "stage": "screen",
+    "station": "south",
+    "used": "2025-04-25",
+    "contract": "screen-only"
+  },
+  {
+    "project": "p023",
+    "stage": "screen",
+    "station": "south",
+    "used": "2025-04-30",
+    "contract": "full-era"
+  },
+  {
+    "project": "p023",
+    "stage": "trial",
+    "station": "south",
+    "used": "2025-06-02",
+    "contract": "full-era"
+  },
+  {
+    "project": "p024",
+    "stage": "screen",
+    "station": "south",
+    "used": "2025-05-05",
+    "contract": "screen-only"
+  },
+  {
+    "project": "p025",
+    "stage": "screen",
+    "station": "north",
+    "used": "2025-05-10",
+    "contract": "full-era"
+  },
+  {
+    "project": "p025",
+    "stage": "trial",
+    "station": "north",
+    "used": "2025-06-12",
+    "contract": "full-era"
+  },
+  {
+    "project": "p026",
+    "stage": "screen",
+    "station": "north",
+    "used": "2025-05-15",
+    "contract": "screen-only"
+  },
+  {
+    "project": "p027",
+    "stage": "screen",
+    "station": "south",
+    "used": "2025-05-20",
+    "contract": "full-era"
+  },
+  {
+    "project": "p027",
+    "stage": "trial",
+    "station": "south",
+    "used": "2025-06-22",
+    "contract": "full-era"
+  },
+  {
+    "project": "p028",
+    "stage": "screen",
+    "station": "south",
+    "used": "2025-05-25",
+    "contract": "screen-only"
+  },
+  {
+    "project": "p029",
+    "stage": "screen",
+    "station": "south",
+    "used": "2025-05-30",
+    "contract": "full-era"
+  },
+  {
+    "project": "p029",
+    "stage": "trial",
+    "station": "south",
+    "used": "2025-07-02",
+    "contract": "full-era"
+  },
+  {
+    "project": "p030",
+    "stage": "screen",
+    "station": "north",
+    "used": "2025-06-04",
+    "contract": "screen-only"
+  },
+  {
+    "project": "p031",
+    "stage": "screen",
+    "station": "north",
+    "used": "2025-06-09",
+    "contract": "full-era"
+  },
+  {
+    "project": "p031",
+    "stage": "trial",
+    "station": "west",
+    "used": "2025-07-12",
+    "contract": "full-era"
+  },
+  {
+    "project": "p032",
+    "stage": "screen",
+    "station": "south",
+    "used": "2025-06-14",
+    "contract": "screen-only"
+  },
+  {
+    "project": "p033",
+    "stage": "screen",
+    "station": "south",
+    "used": "2025-06-19",
+    "contract": "full-era"
+  },
+  {
+    "project": "p033",
+    "stage": "trial",
+    "station": "south",
+    "used": "2025-07-22",
+    "contract": "full-era"
+  },
+  {
+    "project": "p034",
+    "stage": "screen",
+    "station": "south",
+    "used": "2025-06-24",
+    "contract": "screen-only"
+  },
+  {
+    "project": "p035",
+    "stage": "screen",
+    "station": "north",
+    "used": "2025-06-29",
+    "contract": "full-era"
+  },
+  {
+    "project": "p035",
+    "stage": "trial",
+    "station": "north",
+    "used": "2025-08-01",
+    "contract": "full-era"
+  },
+  {
+    "project": "p036",
+    "stage": "screen",
+    "station": "north",
+    "used": "2025-07-04",
+    "contract": "screen-only"
+  },
+  {
+    "project": "p037",
+    "stage": "screen",
+    "station": "south",
+    "used": "2025-07-09",
+    "contract": "full-era"
+  },
+  {
+    "project": "p037",
+    "stage": "trial",
+    "station": "south",
+    "used": "2025-08-11",
+    "contract": "full-era"
+  },
+  {
+    "project": "p038",
+    "stage": "screen",
+    "station": "south",
+    "used": "2025-07-14",
+    "contract": "screen-only"
+  },
+  {
+    "project": "p039",
+    "stage": "screen",
+    "station": "south",
+    "used": "2025-07-19",
+    "contract": "full-era"
+  },
+  {
+    "project": "p039",
+    "stage": "trial",
+    "station": "south",
+    "used": "2025-08-21",
+    "contract": "full-era"
+  },
+  {
+    "project": "p040",
+    "stage": "screen",
+    "station": "north",
+    "used": "2025-07-24",
+    "contract": "screen-only"
+  },
+  {
+    "project": "p041",
+    "stage": "screen",
+    "station": "north",
+    "used": "2025-07-29",
+    "contract": "full-era"
+  },
+  {
+    "project": "p041",
+    "stage": "trial",
+    "station": "west",
+    "used": "2025-08-31",
+    "contract": "full-era"
+  },
+  {
+    "project": "p042",
+    "stage": "screen",
+    "station": "south",
+    "used": "2025-08-03",
+    "contract": "screen-only"
+  },
+  {
+    "project": "p043",
+    "stage": "screen",
+    "station": "south",
+    "used": "2025-08-08",
+    "contract": "full-era"
+  },
+  {
+    "project": "p043",
+    "stage": "trial",
+    "station": "south",
+    "used": "2025-09-10",
+    "contract": "full-era"
+  },
+  {
+    "project": "p044",
+    "stage": "screen",
+    "station": "south",
+    "used": "2025-08-13",
+    "contract": "screen-only"
+  },
+  {
+    "project": "p045",
+    "stage": "screen",
+    "station": "north",
+    "used": "2025-08-18",
+    "contract": "full-era"
+  },
+  {
+    "project": "p045",
+    "stage": "trial",
+    "station": "north",
+    "used": "2025-09-20",
+    "contract": "full-era"
+  },
+  {
+    "project": "p046",
+    "stage": "screen",
+    "station": "north",
+    "used": "2025-08-23",
+    "contract": "screen-only"
+  },
+  {
+    "project": "p047",
+    "stage": "screen",
+    "station": "south",
+    "used": "2025-08-28",
+    "contract": "full-era"
+  },
+  {
+    "project": "p047",
+    "stage": "trial",
+    "station": "south",
+    "used": "2025-09-30",
+    "contract": "full-era"
+  },
+  {
+    "project": "p048",
+    "stage": "screen",
+    "station": "south",
+    "used": "2025-09-02",
+    "contract": "screen-only"
+  },
+  {
+    "project": "p049",
+    "stage": "screen",
+    "station": "south",
+    "used": "2025-09-07",
+    "contract": "full-era"
+  },
+  {
+    "project": "p049",
+    "stage": "trial",
+    "station": "south",
+    "used": "2025-10-10",
+    "contract": "full-era"
+  },
+  {
+    "project": "p050",
+    "stage": "screen",
+    "station": "north",
+    "used": "2025-09-12",
+    "contract": "screen-only"
+  },
+  {
+    "project": "p051",
+    "stage": "screen",
+    "station": "north",
+    "used": "2025-09-17",
+    "contract": "full-era"
+  },
+  {
+    "project": "p051",
+    "stage": "trial",
+    "station": "west",
+    "used": "2025-10-20",
+    "contract": "full-era"
+  },
+  {
+    "project": "p052",
+    "stage": "screen",
+    "station": "south",
+    "used": "2025-09-22",
+    "contract": "screen-only"
+  },
+  {
+    "project": "p053",
+    "stage": "screen",
+    "station": "south",
+    "used": "2025-09-27",
+    "contract": "full-era"
+  },
+  {
+    "project": "p053",
+    "stage": "trial",
+    "station": "south",
+    "used": "2025-10-30",
+    "contract": "full-era"
+  },
+  {
+    "project": "p054",
+    "stage": "screen",
+    "station": "south",
+    "used": "2025-10-02",
+    "contract": "screen-only"
+  },
+  {
+    "project": "p055",
+    "stage": "screen",
+    "station": "north",
+    "used": "2025-10-07",
+    "contract": "full-era"
+  },
+  {
+    "project": "p055",
+    "stage": "trial",
+    "station": "north",
+    "used": "2025-11-09",
+    "contract": "full-era"
+  },
+  {
+    "project": "p056",
+    "stage": "screen",
+    "station": "north",
+    "used": "2025-10-12",
+    "contract": "screen-only"
+  },
+  {
+    "project": "p057",
+    "stage": "screen",
+    "station": "south",
+    "used": "2025-10-17",
+    "contract": "full-era"
+  },
+  {
+    "project": "p057",
+    "stage": "trial",
+    "station": "south",
+    "used": "2025-11-19",
+    "contract": "full-era"
+  },
+  {
+    "project": "p058",
+    "stage": "screen",
+    "station": "south",
+    "used": "2025-10-22",
+    "contract": "screen-only"
+  },
+  {
+    "project": "p059",
+    "stage": "screen",
+    "station": "south",
+    "used": "2025-10-27",
+    "contract": "full-era"
+  },
+  {
+    "project": "p059",
+    "stage": "trial",
+    "station": "south",
+    "used": "2025-11-29",
+    "contract": "full-era"
+  },
+  {
+    "project": "p060",
+    "stage": "screen",
+    "station": "north",
+    "used": "2025-11-01",
+    "contract": "screen-only"
+  },
+  {
+    "project": "p061",
+    "stage": "screen",
+    "station": "north",
+    "used": "2025-11-06",
+    "contract": "full-era"
+  },
+  {
+    "project": "p061",
+    "stage": "trial",
+    "station": "west",
+    "used": "2025-12-09",
+    "contract": "full-era"
+  },
+  {
+    "project": "p062",
+    "stage": "screen",
+    "station": "south",
+    "used": "2025-11-11",
+    "contract": "screen-only"
+  },
+  {
+    "project": "p063",
+    "stage": "screen",
+    "station": "south",
+    "used": "2025-11-16",
+    "contract": "full-era"
+  },
+  {
+    "project": "p063",
+    "stage": "trial",
+    "station": "south",
+    "used": "2025-12-19",
+    "contract": "full-era"
+  },
+  {
+    "project": "p064",
+    "stage": "screen",
+    "station": "south",
+    "used": "2025-11-21",
+    "contract": "screen-only"
+  },
+  {
+    "project": "p065",
+    "stage": "screen",
+    "station": "north",
+    "used": "2025-11-26",
+    "contract": "full-era"
+  },
+  {
+    "project": "p065",
+    "stage": "trial",
+    "station": "north",
+    "used": "2025-12-29",
+    "contract": "full-era"
+  },
+  {
+    "project": "p066",
+    "stage": "screen",
+    "station": "north",
+    "used": "2025-12-01",
+    "contract": "screen-only"
+  },
+  {
+    "project": "p067",
+    "stage": "screen",
+    "station": "south",
+    "used": "2025-12-06",
+    "contract": "full-era"
+  },
+  {
+    "project": "p067",
+    "stage": "trial",
+    "station": "south",
+    "used": "2026-01-08",
+    "contract": "full-era"
+  },
+  {
+    "project": "p068",
+    "stage": "screen",
+    "station": "south",
+    "used": "2025-12-11",
+    "contract": "screen-only"
+  },
+  {
+    "project": "p069",
+    "stage": "screen",
+    "station": "south",
+    "used": "2025-12-16",
+    "contract": "full-era"
+  },
+  {
+    "project": "p069",
+    "stage": "trial",
+    "station": "south",
+    "used": "2026-01-18",
+    "contract": "full-era"
+  },
+  {
+    "project": "p070",
+    "stage": "screen",
+    "station": "north",
+    "used": "2025-12-21",
+    "contract": "screen-only"
+  },
+  {
+    "project": "p071",
+    "stage": "screen",
+    "station": "north",
+    "used": "2025-12-26",
+    "contract": "full-era"
+  },
+  {
+    "project": "p071",
+    "stage": "trial",
+    "station": "west",
+    "used": "2026-01-28",
+    "contract": "full-era"
+  },
+  {
+    "project": "p072",
+    "stage": "screen",
+    "station": "south",
+    "used": "2025-12-31",
+    "contract": "screen-only"
+  },
+  {
+    "project": "p073",
+    "stage": "screen",
+    "station": "south",
+    "used": "2026-01-05",
+    "contract": "full-era"
+  },
+  {
+    "project": "p073",
+    "stage": "trial",
+    "station": "south",
+    "used": "2026-02-07",
+    "contract": "full-era"
+  },
+  {
+    "project": "p074",
+    "stage": "screen",
+    "station": "south",
+    "used": "2026-01-10",
+    "contract": "screen-only"
+  },
+  {
+    "project": "p075",
+    "stage": "screen",
+    "station": "north",
+    "used": "2026-01-15",
+    "contract": "full-era"
+  },
+  {
+    "project": "p075",
+    "stage": "trial",
+    "station": "north",
+    "used": "2026-02-17",
+    "contract": "full-era"
+  },
+  {
+    "project": "p076",
+    "stage": "screen",
+    "station": "north",
+    "used": "2026-01-20",
+    "contract": "screen-only"
+  },
+  {
+    "project": "p077",
+    "stage": "screen",
+    "station": "south",
+    "used": "2026-01-25",
+    "contract": "full-era"
+  },
+  {
+    "project": "p077",
+    "stage": "trial",
+    "station": "south",
+    "used": "2026-02-27",
+    "contract": "full-era"
+  },
+  {
+    "project": "p078",
+    "stage": "screen",
+    "station": "south",
+    "used": "2026-01-30",
+    "contract": "screen-only"
+  },
+  {
+    "project": "p079",
+    "stage": "screen",
+    "station": "south",
+    "used": "2026-02-04",
+    "contract": "full-era"
+  },
+  {
+    "project": "p079",
+    "stage": "trial",
+    "station": "south",
+    "used": "2026-03-09",
+    "contract": "full-era"
+  },
+  {
+    "project": "p080",
+    "stage": "screen",
+    "station": "north",
+    "used": "2026-02-09",
+    "contract": "screen-only"
+  },
+  {
+    "project": "p081",
+    "stage": "screen",
+    "station": "north",
+    "used": "2026-02-14",
+    "contract": "full-era"
+  },
+  {
+    "project": "p081",
+    "stage": "trial",
+    "station": "west",
+    "used": "2026-03-19",
+    "contract": "full-era"
+  },
+  {
+    "project": "p082",
+    "stage": "screen",
+    "station": "south",
+    "used": "2026-02-19",
+    "contract": "screen-only"
+  },
+  {
+    "project": "p083",
+    "stage": "screen",
+    "station": "south",
+    "used": "2026-02-24",
+    "contract": "full-era"
+  },
+  {
+    "project": "p083",
+    "stage": "trial",
+    "station": "south",
+    "used": "2026-03-29",
+    "contract": "full-era"
+  },
+  {
+    "project": "p084",
+    "stage": "screen",
+    "station": "south",
+    "used": "2026-03-01",
+    "contract": "screen-only"
+  },
+  {
+    "project": "p085",
+    "stage": "screen",
+    "station": "north",
+    "used": "2026-03-06",
+    "contract": "full-era"
+  },
+  {
+    "project": "p085",
+    "stage": "trial",
+    "station": "north",
+    "used": "2026-04-08",
+    "contract": "full-era"
+  },
+  {
+    "project": "p086",
+    "stage": "screen",
+    "station": "north",
+    "used": "2026-03-11",
+    "contract": "screen-only"
+  },
+  {
+    "project": "p087",
+    "stage": "screen",
+    "station": "south",
+    "used": "2026-03-16",
+    "contract": "full-era"
+  },
+  {
+    "project": "p087",
+    "stage": "trial",
+    "station": "south",
+    "used": "2026-04-18",
+    "contract": "full-era"
+  },
+  {
+    "project": "p088",
+    "stage": "screen",
+    "station": "south",
+    "used": "2026-03-21",
+    "contract": "screen-only"
+  },
+  {
+    "project": "p089",
+    "stage": "screen",
+    "station": "south",
+    "used": "2026-03-26",
+    "contract": "full-era"
+  },
+  {
+    "project": "p089",
+    "stage": "trial",
+    "station": "south",
+    "used": "2026-04-28",
+    "contract": "full-era"
+  },
+  {
+    "project": "p090",
+    "stage": "screen",
+    "station": "north",
+    "used": "2026-03-31",
+    "contract": "screen-only"
+  },
+  {
+    "project": "p091",
+    "stage": "screen",
+    "station": "north",
+    "used": "2026-04-05",
+    "contract": "full-era"
+  },
+  {
+    "project": "p091",
+    "stage": "trial",
+    "station": "west",
+    "used": "2026-05-08",
+    "contract": "full-era"
+  },
+  {
+    "project": "p092",
+    "stage": "screen",
+    "station": "south",
+    "used": "2026-04-10",
+    "contract": "screen-only"
+  },
+  {
+    "project": "p093",
+    "stage": "screen",
+    "station": "south",
+    "used": "2026-04-15",
+    "contract": "full-era"
+  },
+  {
+    "project": "p093",
+    "stage": "trial",
+    "station": "south",
+    "used": "2026-05-18",
+    "contract": "full-era"
+  },
+  {
+    "project": "p094",
+    "stage": "screen",
+    "station": "south",
+    "used": "2026-04-20",
+    "contract": "screen-only"
+  },
+  {
+    "project": "p095",
+    "stage": "screen",
+    "station": "north",
+    "used": "2026-04-25",
+    "contract": "full-era"
+  },
+  {
+    "project": "p095",
+    "stage": "trial",
+    "station": "north",
+    "used": "2026-05-28",
+    "contract": "full-era"
+  }
+]
